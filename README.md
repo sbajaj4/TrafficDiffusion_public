@@ -1,3 +1,3 @@
-# TrafficDiffusion_public
+# TrafficDiffusion
 
 Full repositority is available upon request. Please contact me if you'd like access via email!
